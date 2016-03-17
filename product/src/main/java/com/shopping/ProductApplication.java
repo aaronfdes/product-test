@@ -12,7 +12,7 @@ import com.shopping.pojo.product.Product;
 import com.shopping.product.facade.ProductFacade;
 
 /**
- * Entry point for spring boot application
+ * Entry point Product micro service
  * 
  * @author aaron on 13-Mar-2016
  */
